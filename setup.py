@@ -89,3 +89,4 @@ setup(
     test_suite='omeClust.tests.omeClust_test',
     zip_safe=False
 )
+test
